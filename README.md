@@ -48,6 +48,16 @@ A Python data-analysis project that analyzes product sales and creates a bar cha
 - Data handling
 - Data analysis
 - Data visualization
+- ## 📸 Project Outputs
+
+### Student Marks Analyzer
+![Student Marks Output](student-marks-output.png)
+
+### Expense Tracker
+![Expense Tracker Output](expense-tracker-output.png)
+
+### Sales Data Analyzer
+![Sales Analysis Chart](sales-analysis-chart.png)
 
 ## 👩‍💻 Author
 
