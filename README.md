@@ -1,51 +1,56 @@
 # 🐍 Python Mini Projects
 
-A collection of three beginner-friendly Python projects created to practice programming logic, data handling, and data visualization.
+A collection of Python mini-projects created to strengthen programming,
+data handling, problem-solving, and data visualization skills.
 
 ## 📌 Projects
 
-### 1. Student Marks Analyzer
+### 1. 🎓 Student Marks Analyzer
 
-A Python program that calculates:
+A Python program that analyzes student marks and generates a complete result.
 
-* Total marks
-* Percentage
-* Grade
-* Pass/Fail result
+**Features:**
+- Calculates total marks
+- Calculates percentage
+- Assigns grade
+- Displays Pass/Fail result
 
-**Concepts:** Variables, Lists, Loops, Conditional Statements, Functions
-
-### 2. Expense Tracker
+### 2. 💰 Expense Tracker
 
 A console-based Python application for recording and analyzing expenses.
 
 **Features:**
+- Add expenses by category
+- Calculate total expenses
+- Find the highest expense
+- Display expense summary
 
-* Add expenses by category
-* Calculate total expenses
-* Find the highest expense
+### 3. 📊 Sales Data Analyzer
 
-**Concepts:** Lists, Dictionaries, Loops, Data Processing
-
-### 3. Sales Data Analyzer
-
-A Python data-analysis project that analyzes product sales and generates a bar chart.
+A Python data-analysis project that analyzes product sales and creates a bar chart.
 
 **Features:**
-
-* Calculate total sales
-* Calculate average sales
-* Identify the best-selling product
-* Generate a sales visualization
-
-**Technologies:** Python, Pandas, Matplotlib
+- Calculates total sales
+- Calculates average sales
+- Identifies the best-selling product
+- Creates a sales visualization
 
 ## 🛠️ Technologies Used
 
-* Python
-* Pandas
-* Matplotlib
+- Python
+- Pandas
+- Matplotlib
 
-## 🎯 Purpose
+## 🎯 Learning Goals
 
-These projects were developed to strengthen my Python programming, data handling, problem-solving, and data visualization skills.
+- Python programming
+- Problem-solving
+- Data handling
+- Data analysis
+- Data visualization
+
+## 👩‍💻 Author
+
+**Karuna Suryawanshi**
+
+BCA Student | Python | SQL | Data Analytics
